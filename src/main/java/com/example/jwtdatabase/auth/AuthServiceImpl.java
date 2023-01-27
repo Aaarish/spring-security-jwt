@@ -1,7 +1,6 @@
 package com.example.jwtdatabase.auth;
 
 import com.example.jwtdatabase.jwt.JwtService;
-import com.example.jwtdatabase.user.Role;
 import com.example.jwtdatabase.user.User;
 import com.example.jwtdatabase.user.UserRepo;
 import lombok.RequiredArgsConstructor;
